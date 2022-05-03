@@ -5,9 +5,9 @@ For that I have used the methodology explained by Alan D. Moore in his book Pyth
 
 Prerequisites:
 
-Python 3.9.7
-tkinter
-pyodbc
+- Python 3.9.7
+- tkinter
+- pyodbc
 
 We are uploading the player information into database:
 
