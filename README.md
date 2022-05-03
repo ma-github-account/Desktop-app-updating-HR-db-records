@@ -1,7 +1,7 @@
 This desktop application allows to employee information into the HR database. User fills the form and clicks "Upload_to_database" button.
 
 Application uses object oriented code to subclass Tkinter widgets.
-For that I have user the methodology explained by Alan D. Moore in his book Python GUI Programming with Tkinter (Chapter 4).
+For that I have used the methodology explained by Alan D. Moore in his book Python GUI Programming with Tkinter (Chapter 4).
 
 Prerequisites:
 
