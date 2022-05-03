@@ -243,7 +243,7 @@ class Application(tk.Tk):
 		try:
 			data = self.recordform.get()
 
-			FirstName = data["LastName"]
+			FirstName = data["FirstName"]
 			LastName = data["LastName"]
 			Age = data["Age"]
 			Nationality = data["Nationality"]
