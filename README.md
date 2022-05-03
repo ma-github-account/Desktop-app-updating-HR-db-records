@@ -46,7 +46,8 @@ How to run: python employee_info_registry.py
 
 ![1](https://user-images.githubusercontent.com/89083426/166502846-c0fc9b0b-baed-47e3-b22c-d78d2583b2db.png)
 
-![2](https://user-images.githubusercontent.com/89083426/166502871-cd3ff076-f94f-4b28-99b4-76ef0eb6b9ff.png)
+
+![2](https://user-images.githubusercontent.com/89083426/166503873-63c4abc8-d83d-4bd3-a8e6-43279fe91095.png)
 
 
 
